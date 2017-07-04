@@ -332,12 +332,6 @@
   <!-- Description of the up caret in the alarm alert screen to collapse the alarm content to summary perspective. [CHAR LIMIT=NONE] -->
   <!-- Description of the button to undo change to alarm -->
   <!-- Toast content when an alarm was deleted  -->
-  <!-- Select the source of the alarm -->
-  <!-- Select the ringtone as alarm -->
-  <!-- Select the alarm from external device -->
-  <!-- Ok for selection -->
-  <!-- Cancel for selection -->
-  <string name="alarm_select_cancel">Nuligi</string>
   <!-- slash between date and next alarm in the clock -->
   <!-- slash between date and next alarm in the clock -->
   <!-- Description of field showing the next alarm time in the clock page, for accessibility. -->

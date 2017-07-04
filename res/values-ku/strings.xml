@@ -549,15 +549,6 @@
   <!-- Description of the button to undo change to alarm -->
   <string name="alarm_undo">گه‌ڕانه‌وه‌</string>
   <!-- Toast content when an alarm was deleted  -->
-  <!-- Select the source of the alarm -->
-  <!-- Select the ringtone as alarm -->
-  <string name="alarm_select_ringtone">زه‌نگ</string>
-  <!-- Select the alarm from external device -->
-  <string name="alarm_select_external">مۆسیقا</string>
-  <!-- Ok for selection -->
-  <string name="alarm_select_ok">باشه‌</string>
-  <!-- Cancel for selection -->
-  <string name="alarm_select_cancel">هەڵوەشاندنەوە</string>
   <!-- slash between date and next alarm in the clock -->
   <string name="slash"> / </string>
   <!-- slash between date and next alarm in the clock -->
