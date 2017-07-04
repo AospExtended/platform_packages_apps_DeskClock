@@ -21,11 +21,10 @@
   <!-- Select the source of the alarm -->
   <!-- Select the ringtone as alarm -->
   <!-- Select the alarm from external device -->
-  <string name="alarm_select_external">音樂</string>
+  <string name="alarm_select_external">Μουσική</string>
   <!-- Ok for selection -->
-  <string name="alarm_select_ok">確定</string>
+  <string name="alarm_select_ok">Αποδοχή</string>
   <!-- Cancel for selection -->
-  <string name="alarm_select_cancel">取消</string>
   <!-- Title of the setting default alarm tone  -->
   <!-- Setting title for the flip action setting. -->
   <!-- Setting summary for the flip action setting. -->
@@ -33,9 +32,6 @@
   <!-- Setting summary for the shake action setting. -->
   <!-- Summary texts for shake and flip actions -->
   <!-- Label on expanded alarm edit view indicating the ringtone is custom. -->
-  <string name="custom_ringtone">自訂鈴聲</string>
   <!-- Ringtone selection default" -->
-  <string name="ringtone_default">"默認鈴聲"</string>
   <!--used for prompt to user storage permission status-->
-  <string name="have_denied_storage_permission">你主動拒絕了存儲訪問權限,可以去設置應用重新開啓該應用權限</string>
 </resources>
