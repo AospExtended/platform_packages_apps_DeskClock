@@ -29,6 +29,7 @@
   <!-- Cancel for selection -->
   <string name="alarm_select_cancel">Cancelar</string>
   <!-- Title of the setting default alarm tone  -->
+  <string name="default_alarm_tone_title">Som de alarme predefinido</string>
   <!-- Setting title for the flip action setting. -->
   <string name="flip_action_title">Ação ao virar</string>
   <!-- Setting summary for the flip action setting. -->
