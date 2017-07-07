@@ -21,6 +21,7 @@
   <!-- Select the source of the alarm -->
   <string name="alarm_select">Επιλογή ξυπνητηριού</string>
   <!-- Select the ringtone as alarm -->
+  <string name="alarm_select_ringtone">Ringtone</string>
   <!-- Select the alarm from external device -->
   <string name="alarm_select_external">Μουσική</string>
   <!-- Ok for selection -->

@@ -19,7 +19,9 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Select the source of the alarm -->
+  <string name="alarm_select">Vyberte budík</string>
   <!-- Select the ringtone as alarm -->
+  <string name="alarm_select_ringtone">Tón zvonenia</string>
   <!-- Select the alarm from external device -->
   <string name="alarm_select_external">Hudba</string>
   <!-- Ok for selection -->
@@ -27,12 +29,23 @@
   <!-- Cancel for selection -->
   <string name="alarm_select_cancel">Zrušiť</string>
   <!-- Title of the setting default alarm tone  -->
+  <string name="default_alarm_tone_title">Predvolený tón budíka</string>
   <!-- Setting title for the flip action setting. -->
+  <string name="flip_action_title">Akcia pri prevrátení</string>
   <!-- Setting summary for the flip action setting. -->
+  <string name="flip_action_summary" product="default">Otočením telefónu dôjde k <xliff:g id="action">%s</xliff:g></string>
   <!-- Setting title for the shake action setting. -->
+  <string name="shake_action_title">Akcia pri zatrasení</string>
   <!-- Setting summary for the shake action setting. -->
+  <string name="shake_action_summary" product="default">Zatrasením telefónu dôjde k <xliff:g id="action">%s</xliff:g></string>
   <!-- Summary texts for shake and flip actions -->
+  <string name="action_summary_snooze">odložiť budík</string>
+  <string name="action_summary_dismiss">zrušiť budík</string>
+  <string name="action_summary_do_nothing">neurobiť nič</string>
   <!-- Label on expanded alarm edit view indicating the ringtone is custom. -->
+  <string name="custom_ringtone">Vlastný vyzváňací tón</string>
   <!-- Ringtone selection default" -->
+  <string name="ringtone_default">"Predvolený vyzváňací tón"</string>
   <!--used for prompt to user storage permission status-->
+  <string name="have_denied_storage_permission">Odmietli ste oprávnenie k úložisku. Môžete znovu pridať toto oprávnenie ručne pri nastavení aplikácie</string>
 </resources>

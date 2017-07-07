@@ -19,7 +19,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Select the source of the alarm -->
-  <string name="alarm_select">Alarmton wählen</string>
+  <string name="alarm_select">Wecker wählen</string>
   <!-- Select the ringtone as alarm -->
   <string name="alarm_select_ringtone">Klingelton</string>
   <!-- Select the alarm from external device -->
