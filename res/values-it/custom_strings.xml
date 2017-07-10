@@ -33,7 +33,7 @@
   <!-- Setting title for the flip action setting. -->
   <string name="flip_action_title">Azione capovolgimento</string>
   <!-- Setting summary for the flip action setting. -->
-  <string name="flip_action_summary" product="default">Ruotando il device verso il basso verrà <xliff:g id="action">%s</xliff:g>    </string>
+  <string name="flip_action_summary" product="default">Ruotando il dispositivo verso il basso verrà <xliff:g id="action">%s</xliff:g>    </string>
   <!-- Setting title for the shake action setting. -->
   <string name="shake_action_title">Azione scuotimento</string>
   <!-- Setting summary for the shake action setting. -->
@@ -47,5 +47,5 @@
   <!-- Ringtone selection default" -->
   <string name="ringtone_default">"Suoneria predefinita"</string>
   <!--used for prompt to user storage permission status-->
-  <string name="have_denied_storage_permission">Hai negato il permesso di accesso alla memoria; è possibile aggiungere manualmente questo permesso nuovamente nelle impostazioni dell\'applicazione</string>
+  <string name="have_denied_storage_permission">Hai negato il permesso di accesso alla memoria, è possibile aggiungere manualmente questo permesso nuovamente nelle impostazione dell\'applicazione</string>
 </resources>

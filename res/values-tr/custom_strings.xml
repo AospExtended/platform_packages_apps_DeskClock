@@ -19,7 +19,9 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Select the source of the alarm -->
+  <string name="alarm_select">Alarmı seç</string>
   <!-- Select the ringtone as alarm -->
+  <string name="alarm_select_ringtone">Zil Sesi</string>
   <!-- Select the alarm from external device -->
   <string name="alarm_select_external">Müzik</string>
   <!-- Ok for selection -->
@@ -27,12 +29,23 @@
   <!-- Cancel for selection -->
   <string name="alarm_select_cancel">İptal</string>
   <!-- Title of the setting default alarm tone  -->
+  <string name="default_alarm_tone_title">Varsayılan alarm zil sesi</string>
   <!-- Setting title for the flip action setting. -->
+  <string name="flip_action_title">Çevirme eylemi</string>
   <!-- Setting summary for the flip action setting. -->
+  <string name="flip_action_summary" product="default">Telefonu ters çevirmek şunu yapacak: <xliff:g id="action">%s</xliff:g></string>
   <!-- Setting title for the shake action setting. -->
+  <string name="shake_action_title">Sallama eylemi</string>
   <!-- Setting summary for the shake action setting. -->
+  <string name="shake_action_summary" product="default">Telefonu sallayınca <xliff:g id="action">%s</xliff:g></string>
   <!-- Summary texts for shake and flip actions -->
+  <string name="action_summary_snooze">alarmı ertele</string>
+  <string name="action_summary_dismiss">alarmı kapat</string>
+  <string name="action_summary_do_nothing">hiçbir şey yapma</string>
   <!-- Label on expanded alarm edit view indicating the ringtone is custom. -->
+  <string name="custom_ringtone">Özel Zil Sesi</string>
   <!-- Ringtone selection default" -->
+  <string name="ringtone_default">"Varsayılan zil sesi"</string>
   <!--used for prompt to user storage permission status-->
+  <string name="have_denied_storage_permission">Depolama iznini red ettiniz, bu izni  uygulama ayarlarından yeniden verebilirsiniz</string>
 </resources>
