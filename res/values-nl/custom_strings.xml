@@ -19,7 +19,9 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Select the source of the alarm -->
+  <string name="alarm_select">Alarm selecteren</string>
   <!-- Select the ringtone as alarm -->
+  <string name="alarm_select_ringtone">Beltoon</string>
   <!-- Select the alarm from external device -->
   <string name="alarm_select_external">Muziek</string>
   <!-- Ok for selection -->
@@ -27,12 +29,20 @@
   <!-- Cancel for selection -->
   <string name="alarm_select_cancel">Annuleer</string>
   <!-- Title of the setting default alarm tone  -->
+  <string name="default_alarm_tone_title">Standaard geluid voor alarm</string>
   <!-- Setting title for the flip action setting. -->
+  <string name="flip_action_title">Draaiactie</string>
   <!-- Setting summary for the flip action setting. -->
   <!-- Setting title for the shake action setting. -->
+  <string name="shake_action_title">Schudactie</string>
   <!-- Setting summary for the shake action setting. -->
   <!-- Summary texts for shake and flip actions -->
+  <string name="action_summary_snooze">het alarm sluimeren</string>
+  <string name="action_summary_dismiss">het alarm uitschakelen</string>
+  <string name="action_summary_do_nothing">niets doen</string>
   <!-- Label on expanded alarm edit view indicating the ringtone is custom. -->
+  <string name="custom_ringtone">Aangepaste beltoon</string>
   <!-- Ringtone selection default" -->
+  <string name="ringtone_default">"Standaardbeltoon"</string>
   <!--used for prompt to user storage permission status-->
 </resources>

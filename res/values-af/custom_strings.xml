@@ -22,6 +22,7 @@
   <!-- Select the ringtone as alarm -->
   <!-- Select the alarm from external device -->
   <!-- Ok for selection -->
+  <string name="alarm_select_ok">OK</string>
   <!-- Cancel for selection -->
   <!-- Title of the setting default alarm tone  -->
   <!-- Setting title for the flip action setting. -->
