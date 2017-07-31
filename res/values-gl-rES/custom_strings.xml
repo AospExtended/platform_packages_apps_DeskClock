@@ -39,7 +39,7 @@
   <!-- Setting summary for the shake action setting. -->
   <string name="shake_action_summary" product="default">Ao Axitar o teléfono <xliff:g id="action">%s</xliff:g>    </string>
   <!-- Summary texts for shake and flip actions -->
-  <string name="action_summary_snooze">Posponer a alarma</string>
+  <string name="action_summary_snooze">repetir a alarma</string>
   <string name="action_summary_dismiss">Descartar a alarma</string>
   <string name="action_summary_do_nothing">Non facer nada</string>
   <!-- Label on expanded alarm edit view indicating the ringtone is custom. -->
