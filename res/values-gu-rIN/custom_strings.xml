@@ -19,7 +19,9 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Select the source of the alarm -->
+  <string name="alarm_select">એલાર્મ નો સ્ત્રોત સિલેક્ટ કરો</string>
   <!-- Select the ringtone as alarm -->
+  <string name="alarm_select_ringtone">એલાર્મ નો ધ્વનિ સેલેક્ટ કરો</string>
   <!-- Select the alarm from external device -->
   <!-- Ok for selection -->
   <!-- Cancel for selection -->
@@ -29,7 +31,12 @@
   <!-- Setting title for the shake action setting. -->
   <!-- Setting summary for the shake action setting. -->
   <!-- Summary texts for shake and flip actions -->
+  <string name="action_summary_dismiss">એલાર્મ હટાવી દો</string>
+  <string name="action_summary_do_nothing">કઈ નહિ કરો</string>
   <!-- Label on expanded alarm edit view indicating the ringtone is custom. -->
+  <string name="custom_ringtone">જાતની રિંગટોન</string>
   <!-- Ringtone selection default" -->
+  <string name="ringtone_default">"નક્કી કરેલી રિંગટોન"</string>
   <!--used for prompt to user storage permission status-->
+  <string name="have_denied_storage_permission">તમે આને સ્ટોરેજ ના ઉપયોગ માટે ના પાડી હતી, ફરી હા પાડવા માટે જાતે સેટિંગ મા જઈને બદલી શકો છો</string>
 </resources>

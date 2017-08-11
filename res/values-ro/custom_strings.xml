@@ -19,19 +19,37 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Select the source of the alarm -->
+  <string name="alarm_select">Selectați alarma</string>
   <!-- Select the ringtone as alarm -->
+  <string name="alarm_select_ringtone">Ton de sonerie</string>
   <!-- Select the alarm from external device -->
   <string name="alarm_select_external">Muzică</string>
   <!-- Ok for selection -->
   <string name="alarm_select_ok">OK</string>
   <!-- Cancel for selection -->
+  <string name="alarm_select_cancel">Anulaţi</string>
   <!-- Title of the setting default alarm tone  -->
+  <string name="default_alarm_tone_title">Sunet de alarmă prestabilit</string>
   <!-- Setting title for the flip action setting. -->
+  <string name="flip_action_title">Acțiune de rotire</string>
   <!-- Setting summary for the flip action setting. -->
+  <string name="flip_action_summary" product="default">Rotirea telefonului cu ecranul în jos va
+        <xliff:g id="action">%s</xliff:g>
+    </string>
   <!-- Setting title for the shake action setting. -->
+  <string name="shake_action_title">Acțiune de agitare</string>
   <!-- Setting summary for the shake action setting. -->
+  <string name="shake_action_summary" product="default">Agitarea telefonului va
+        <xliff:g id="action">%s</xliff:g>
+    </string>
   <!-- Summary texts for shake and flip actions -->
+  <string name="action_summary_snooze">amânare alarmă</string>
+  <string name="action_summary_dismiss">anulare alarmă</string>
+  <string name="action_summary_do_nothing">nicio acţiune</string>
   <!-- Label on expanded alarm edit view indicating the ringtone is custom. -->
+  <string name="custom_ringtone">Ton de sonerie personalizat</string>
   <!-- Ringtone selection default" -->
+  <string name="ringtone_default">"Ton de sonerie prestabilit"</string>
   <!--used for prompt to user storage permission status-->
+  <string name="have_denied_storage_permission">Ați refuzat permisiunea de stocare, dar puteți adăuga manual această permisiune în Setări</string>
 </resources>

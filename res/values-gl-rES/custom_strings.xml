@@ -47,5 +47,5 @@
   <!-- Ringtone selection default" -->
   <string name="ringtone_default">"Son por defecto"</string>
   <!--used for prompt to user storage permission status-->
-  <string name="have_denied_storage_permission">Has denegado os permisos de almacenamento, poderás añadilos de novo manualmente dende os axustes do aplicativo</string>
+  <string name="have_denied_storage_permission">Denagaches os permisos de almacenamento, poderás engadilos de novo manualmente dende os axustes do aplicativo</string>
 </resources>

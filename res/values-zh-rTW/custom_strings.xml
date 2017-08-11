@@ -45,7 +45,7 @@
   <!-- Label on expanded alarm edit view indicating the ringtone is custom. -->
   <string name="custom_ringtone">自訂鈴聲</string>
   <!-- Ringtone selection default" -->
-  <string name="ringtone_default">"默認鈴聲"</string>
+  <string name="ringtone_default">"預設鈴聲"</string>
   <!--used for prompt to user storage permission status-->
-  <string name="have_denied_storage_permission">你主動拒絕了存儲訪問權限,可以去設置應用重新開啓該應用權限</string>
+  <string name="have_denied_storage_permission">您已拒絕儲存權限，並且可以在設定應用程式時再次手動增加此權限</string>
 </resources>
