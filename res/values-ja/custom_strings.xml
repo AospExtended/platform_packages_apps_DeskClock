@@ -25,6 +25,7 @@
   <!-- Ok for selection -->
   <string name="alarm_select_ok">はい</string>
   <!-- Cancel for selection -->
+  <string name="alarm_select_cancel">キャンセル</string>
   <!-- Title of the setting default alarm tone  -->
   <!-- Setting title for the flip action setting. -->
   <!-- Setting summary for the flip action setting. -->

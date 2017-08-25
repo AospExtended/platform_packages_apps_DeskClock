@@ -43,9 +43,9 @@
         <xliff:g id="action">%s</xliff:g>
     </string>
   <!-- Summary texts for shake and flip actions -->
-  <string name="action_summary_snooze">amânare alarmă</string>
-  <string name="action_summary_dismiss">anulare alarmă</string>
-  <string name="action_summary_do_nothing">nicio acţiune</string>
+  <string name="action_summary_snooze">amâna alarma</string>
+  <string name="action_summary_dismiss">anula alarma</string>
+  <string name="action_summary_do_nothing">face nimic</string>
   <!-- Label on expanded alarm edit view indicating the ringtone is custom. -->
   <string name="custom_ringtone">Ton de sonerie personalizat</string>
   <!-- Ringtone selection default" -->
