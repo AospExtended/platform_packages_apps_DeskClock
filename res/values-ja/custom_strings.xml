@@ -19,7 +19,9 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Select the source of the alarm -->
+  <string name="alarm_select">アラームを選択</string>
   <!-- Select the ringtone as alarm -->
+  <string name="alarm_select_ringtone">着信音</string>
   <!-- Select the alarm from external device -->
   <string name="alarm_select_external">ミュージック</string>
   <!-- Ok for selection -->
@@ -27,12 +29,22 @@
   <!-- Cancel for selection -->
   <string name="alarm_select_cancel">キャンセル</string>
   <!-- Title of the setting default alarm tone  -->
+  <string name="default_alarm_tone_title">既定のアラーム音</string>
   <!-- Setting title for the flip action setting. -->
+  <string name="flip_action_title">伏せる動作</string>
   <!-- Setting summary for the flip action setting. -->
+  <string name="flip_action_summary" product="default">端末を伏せて<xliff:g id="action">%s</xliff:g></string>
   <!-- Setting title for the shake action setting. -->
+  <string name="shake_action_title">シェイクの動作</string>
   <!-- Setting summary for the shake action setting. -->
+  <string name="shake_action_summary" product="default">携帯電話を振ると<xliff:g id="action">%s</xliff:g></string>
   <!-- Summary texts for shake and flip actions -->
+  <string name="action_summary_snooze">アラームをスヌーズする</string>
+  <string name="action_summary_dismiss">アラームを解除する</string>
+  <string name="action_summary_do_nothing">何もしない</string>
   <!-- Label on expanded alarm edit view indicating the ringtone is custom. -->
+  <string name="custom_ringtone">カスタム着信音</string>
   <!-- Ringtone selection default" -->
+  <string name="ringtone_default">"既定の着信音"</string>
   <!--used for prompt to user storage permission status-->
 </resources>
