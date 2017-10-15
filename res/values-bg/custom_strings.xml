@@ -19,18 +19,35 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Select the source of the alarm -->
+  <string name="alarm_select">Изберете аларма</string>
   <!-- Select the ringtone as alarm -->
+  <string name="alarm_select_ringtone">Мелодия</string>
   <!-- Select the alarm from external device -->
+  <string name="alarm_select_external">Музика</string>
   <!-- Ok for selection -->
+  <string name="alarm_select_ok">Да</string>
   <!-- Cancel for selection -->
   <string name="alarm_select_cancel">Отказ</string>
   <!-- Title of the setting default alarm tone  -->
+  <string name="default_alarm_tone_title">Стандартен тон на аларма</string>
   <!-- Setting title for the flip action setting. -->
+  <string name="flip_action_title">Действие при обръщане</string>
   <!-- Setting summary for the flip action setting. -->
+  <string name="flip_action_summary" product="default">Обръщайки телефона ще се <xliff:g id="action">%s</xliff:g>    </string>
   <!-- Setting title for the shake action setting. -->
+  <string name="shake_action_title">Разклащане</string>
   <!-- Setting summary for the shake action setting. -->
+  <string name="shake_action_summary" product="default">Разклащайки телефона ще
+        <xliff:g id="action">%s</xliff:g>
+    </string>
   <!-- Summary texts for shake and flip actions -->
+  <string name="action_summary_snooze">отложи алармата</string>
+  <string name="action_summary_dismiss">отхвърли аларма</string>
+  <string name="action_summary_do_nothing">не прави нищо</string>
   <!-- Label on expanded alarm edit view indicating the ringtone is custom. -->
+  <string name="custom_ringtone">Потребителска мелодия</string>
   <!-- Ringtone selection default" -->
+  <string name="ringtone_default">"Стандартна мелодия"</string>
   <!--used for prompt to user storage permission status-->
+  <string name="have_denied_storage_permission">Отказахте достъп до хранилището, може включите разрешението отново в настройките на приложението</string>
 </resources>

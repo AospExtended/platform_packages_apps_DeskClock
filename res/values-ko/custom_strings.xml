@@ -19,19 +19,33 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Select the source of the alarm -->
+  <string name="alarm_select">알람 선택</string>
   <!-- Select the ringtone as alarm -->
+  <string name="alarm_select_ringtone">벨소리</string>
   <!-- Select the alarm from external device -->
   <string name="alarm_select_external">음악</string>
   <!-- Ok for selection -->
   <string name="alarm_select_ok">확인</string>
   <!-- Cancel for selection -->
+  <string name="alarm_select_cancel">취소</string>
   <!-- Title of the setting default alarm tone  -->
+  <string name="default_alarm_tone_title">기본 알람 소리</string>
   <!-- Setting title for the flip action setting. -->
+  <string name="flip_action_title">뒤집기 동작</string>
   <!-- Setting summary for the flip action setting. -->
+  <string name="flip_action_summary" product="default">휴대폰을 아래로 뒤집으면 <xliff:g id="action">%s</xliff:g></string>
   <!-- Setting title for the shake action setting. -->
+  <string name="shake_action_title">흔들기 동작</string>
   <!-- Setting summary for the shake action setting. -->
+  <string name="shake_action_summary" product="default">휴대폰을 흔들면 <xliff:g id="action">%s</xliff:g></string>
   <!-- Summary texts for shake and flip actions -->
+  <string name="action_summary_snooze">알람 일시 중지</string>
+  <string name="action_summary_dismiss">알람 해제</string>
+  <string name="action_summary_do_nothing">아무것도 하지 않음</string>
   <!-- Label on expanded alarm edit view indicating the ringtone is custom. -->
+  <string name="custom_ringtone">사용자 정의 벨소리</string>
   <!-- Ringtone selection default" -->
+  <string name="ringtone_default">"기본 벨소리"</string>
   <!--used for prompt to user storage permission status-->
+  <string name="have_denied_storage_permission">저장소 권한을 거부했습니다. 설정에서 이 권한을 다시 추가할 수 있습니다.</string>
 </resources>
