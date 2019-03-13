@@ -23,7 +23,7 @@
     <string name="shake_action_title">Azione scuotimento</string>
     <!-- Entries listed in the setting flip and shake. -->
     <string-array name="action_setting_entries">
-        <item>Snooze</item>
+        <item>Posticipa</item>
         <item>Ignora</item>
         <item>Niente</item>
     </string-array>
