@@ -23,7 +23,7 @@
     <string name="shake_action_title">设备摇晃操作</string>
     <!-- Entries listed in the setting flip and shake. -->
     <string-array name="action_setting_entries">
-        <item>贪睡模式</item>
+        <item>稍后再响</item>
         <item>忽略</item>
         <item>无</item>
     </string-array>
