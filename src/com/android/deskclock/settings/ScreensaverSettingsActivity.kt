@@ -21,12 +21,14 @@ import android.os.Build
 import android.os.Bundle
 import android.view.MenuItem
 import androidx.appcompat.app.AppCompatActivity
+import androidx.preference.CheckBoxPreference;
 import androidx.preference.ListPreference
 import androidx.preference.Preference
 import androidx.preference.PreferenceFragmentCompat
 
 import com.android.deskclock.R
 import com.android.deskclock.Utils
+import com.android.deskclock.data.DataModel;
 
 /**
  * Settings for Clock screen saver
@@ -80,8 +82,10 @@ class ScreensaverSettingsActivity : AppCompatActivity() {
 
         private fun refresh() {
             val clockStylePref = findPreference<ListPreference>(KEY_CLOCK_STYLE) as ListPreference
+            val nightModePref = findPreference<CheckBoxPreference>(KEY_NIGHT_MODE) as CheckBoxPreference
             clockStylePref.setSummary(clockStylePref.getEntry())
             clockStylePref.setOnPreferenceChangeListener(this)
+            nightModePref.setChecked(DataModel.dataModel.screensaverNightModeOn);
         }
     }
 
